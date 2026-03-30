@@ -8,11 +8,11 @@
 ---
 
 ### 🚀 Professional Summary
-I am a **Cloud Solutions Specialist** and **Full-Stack Developer** focused on building sustainable, AI-integrated infrastructure. My expertise lies in automating CI/CD pipelines and architecting multi-cloud environments (AWS/Azure/GCP) that prioritize cost-efficiency and performance.
+I am a **Cloud Solutions Specialist** and **Full-Stack Developer** focused on building sustainable, AI-integrated infrastructure and scalable real-time applications. My expertise lies in architecting production-ready systems and multi-cloud environments (AWS/Azure/GCP) that prioritize security, cost-efficiency, and performance.
 
-- 🔭 **Featured:** Architecting **[GreenVision Cloud](https://github.com/krishavaiya01/GreenVision-Cloud)** — A Multi-Cloud Sustainability Engine.
+- 🔭 **Featured:** Developing **[MatchSphere](https://github.com/krishavaiya01/MatchSphere)** — A scalable dating platform (Associated with Bluestock™🔺).
 - 💼 **Latest Experience:** Cloud Intern @ **LaunchedGlobal** (Optimized AWS workflows by 40%).
-- 🧠 **Tech Interests:** Infrastructure as Code (IaC), Green IT, and LLM Orchestration.
+- 🧠 **Tech Interests:** Infrastructure as Code (IaC), Real-time Systems, and Green IT.
 
 ---
 
@@ -22,13 +22,13 @@ I am a **Cloud Solutions Specialist** and **Full-Stack Developer** focused on bu
   <tr>
     <td width="50%" valign="top">
       <h4>☁️ Cloud & DevOps</h4>
-      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,githubactions,linux,bash" /><br/>
-      <i>EC2, S3, Lambda, CloudFormation, CI/CD</i>
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,githubactions,linux,bash,redis" /><br/>
+      <i>EC2, S3, Lambda, CloudFormation, Redis Caching</i>
     </td>
     <td width="50%" valign="top">
       <h4>💻 Full-Stack & AI</h4>
-      <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,ts,py,openai" /><br/>
-      <i>MERN Stack, GenAI Integration, Amazon Lex</i>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,express,react,nodejs,nextjs,ts,py" /><br/>
+      <i>Prisma ORM, Socket.io, Firebase, JWT Auth</i>
     </td>
   </tr>
 </table>
@@ -45,12 +45,16 @@ I am a **Cloud Solutions Specialist** and **Full-Stack Developer** focused on bu
 
 ### 🌟 Key Projects
 
+* **[MatchSphere](https://github.com/krishavaiya01/MatchSphere)** 💘 *(Associated with Bluestock™🔺)*
+    * **Scalable Dating Platform** featuring a modular service-based backend and real-time Socket.io chat.
+    * Implemented swipe-matching logic, KYC verification with video moderation, and Redis-optimized performance.
+    * **Tech:** React Native (Expo), Node.js, PostgreSQL (Prisma), Redis, Cloudflare R2, Firebase.
+
 * **[GreenVision Cloud](https://github.com/krishavaiya01/GreenVision-Cloud)** 🌿  
     *Multi-Cloud Sustainability Platform.* Uses OpenAI to analyze infrastructure metrics and suggest carbon footprint reductions.
+
 * **[Referral Credit System](https://github.com/krishavaiya01/Referral-Credit-System)** 💳  
     *Full-Stack Monorepo.* High-concurrency system built with Next.js and Node.js with atomic credit conversions.
-* **[AWS Hotel Booking Bot](your-link-here)** 🤖  
-    *AI Automation.* Conversational interface using Amazon Lex and Lambda for real-time dynamic pricing.
 
 ---
 
