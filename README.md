@@ -7,63 +7,79 @@
 
 ---
 
-### 🚀 Professional Summary
-I am a **Cloud Solutions Specialist** and **Full-Stack Developer** focused on building sustainable, AI-integrated infrastructure and scalable real-time applications. My expertise lies in architecting production-ready systems and multi-cloud environments (AWS/Azure/GCP) that prioritize security, cost-efficiency, and performance.
+<div align="center">
 
-- 🔭 **Featured:** Developing **[MatchSphere](https://github.com/krishavaiya01/MatchSphere)** — A scalable dating platform (Associated with Bluestock™🔺).
-- 💼 **Latest Experience:** Cloud Intern @ **LaunchedGlobal** (Optimized AWS workflows by 40%).
-- 🧠 **Tech Interests:** Infrastructure as Code (IaC), Real-time Systems, and Green IT.
+<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Krishkumar%20Avaiya%20👋&fontSize=50&animation=fadeIn" width="100%"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MCA%20Cloud%20Computing-MIT%20ADT%20University-05122A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Native%20%26%20GenAI-05122A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Pune%2C%20IN-05122A?style=for-the-badge&logoColor=white" />
+</p>
+
+### **Cloud Solutions Specialist | Full-Stack Developer | AI Engineer**
+Architecting production-ready, sustainable AI-integrated infrastructure and scalable real-time applications.
+
+<p align="center">
+<a href="https://linkedin.com/in/krishkumar-avaiya/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="krishkumar avaiya" /></a>
+<a href="mailto:krishavaiya9@gmail.com"><img align="center" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="krishavaiya9@gmail.com" /></a>
+</p>
+
+</div>
+
+---
+
+### 🚀 Professional Summary
+
+I specialize in building sustainable, cost-optimized tech ecosystems combining mult-cloud infrastructure (AWS/Azure/GCP) with modern JavaScript frameworks. My technical compass points toward High Concurrency, Infrastructure as Code (IaC), Real-time Systems, and Green IT.
+
+- 🔭 **Currently Building:** Expanding **[GreenVision Cloud](https://github.com/krishavaiya01/GreenVision-Cloud-)**, an AI-powered Multi-Cloud optimization engine.
+- 💼 **Latest Experience:** Cloud Intern @ **LaunchedGlobal** *(Optimized AWS workflow deployment pipelines by 40%)*
+- 🤝 **Open to Collaborate:** Seeking roles in Cloud Operations, DevOps, and Full-Stack Development.
 
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
 
-<table width="100%">
-  <tr>
+<table>
+  <tr align="center">
     <td width="50%" valign="top">
-      <h4>☁️ Cloud & DevOps</h4>
-      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,githubactions,linux,bash,redis" /><br/>
-      <i>EC2, S3, Lambda, CloudFormation, Redis Caching</i>
+      <h4>☁️ Cloud Architecture & DevOps</h4>
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,githubactions,linux,bash,nginx" /><br/><br/>
+      <i>EC2, S3, IAM, App Services, CI/CD, Containerization</i>
     </td>
     <td width="50%" valign="top">
-      <h4>💻 Full-Stack & AI</h4>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,express,react,nodejs,nextjs,ts,py" /><br/>
-      <i>Prisma ORM, Socket.io, Firebase, JWT Auth</i>
+      <h4>💻 Full-Stack & GenAI</h4>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,express,react,nodejs,nextjs,ts,redis" /><br/><br/>
+      <i>MERN, Prisma ORM, Socket.io, Firebase, JWT Auth</i>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Metrics & Impact
+### 🌟 Featured Master Projects
+
+#### 🌿 [GreenVision Cloud](https://github.com/krishavaiya01/GreenVision-Cloud-) 
+**(Live MERN Application | Multi-Cloud | AI-Integrated)**
+* Engineered a powerful **AI-driven Sustainability Platform** aggregating live instances across AWS, Azure, and GCP.
+* Integrated **OpenAI API** to proactively flag anomalies and suggest automated right-sizing configurations for reducing idle costs.
+* Designed a responsive real-time dashboard using **Socket.io**, **Vite (React)**, and Data Visualizations (`Recharts`).
+
+
+
+### 📊 Open Source Activity
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishavaiya01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishavaiya01&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishavaiya01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishavaiya01&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" />
 </p>
 
 ---
 
-### 🌟 Key Projects
-
-* **[MatchSphere](https://github.com/krishavaiya01/MatchSphere)** 💘 *(Associated with Bluestock™🔺)*
-    * **Scalable Dating Platform** featuring a modular service-based backend and real-time Socket.io chat.
-    * Implemented swipe-matching logic, KYC verification with video moderation, and Redis-optimized performance.
-    * **Tech:** React Native (Expo), Node.js, PostgreSQL (Prisma), Redis, Cloudflare R2, Firebase.
-
-* **[GreenVision Cloud](https://github.com/krishavaiya01/GreenVision-Cloud)** 🌿  
-    *Multi-Cloud Sustainability Platform.* Uses OpenAI to analyze infrastructure metrics and suggest carbon footprint reductions.
-
-* **[Referral Credit System](https://github.com/krishavaiya01/Referral-Credit-System)** 💳  
-    *Full-Stack Monorepo.* High-concurrency system built with Next.js and Node.js with atomic credit conversions.
-
----
-
-### 📫 Let's Connect
-<p align="left">
-<a href="https://linkedin.com/in/krishkumar-avaiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishkumar avaiya" height="30" width="40" /></a>
-<a href="mailto:krishavaiya9@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="krishavaiya9@gmail.com" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" width="100%"/>
+<div align="center">
+  <i>Every great architecture begins with a clean commit.</i><br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=krishavaiya01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+pp/render?type=waving&color=auto&height=100&section=footer" width="100%"/>
 </p>
